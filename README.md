@@ -1,7 +1,7 @@
 # OpenLightComm (OLC) EU Project
 
 > [!NOTE]
-> Project made for OpenLightComm UK
+> Project made for OpenLightComm EU
 > 
 > Website Designed and Developed by Kyriakos Michailidis
 > 
@@ -10,7 +10,7 @@
 > https://www.linkedin.com/in/kyriakos-michailidis-info/
 
 > [!IMPORTANT]
-> All rights reserved OpenLightComm UK 
+> All rights reserved OpenLightComm EU 
 > https://www.openlightcomm.eu/
 
 > [!TIP]
